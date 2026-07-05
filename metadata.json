@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Restaurant Ordering SaaS Platform UI Demo",
+  "description": "Next-generation, high-fidelity GloriaFood-inspired restaurant ordering SaaS console including live queue, visual website theme builder, smart AI demand forecasting, and simulated order capture storefront.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
